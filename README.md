@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/hortoncd/ruby-quicksort.svg?style=svg)](https://circleci.com/gh/hortoncd/ruby-quicksort)
+
 Description
 ===========
 
